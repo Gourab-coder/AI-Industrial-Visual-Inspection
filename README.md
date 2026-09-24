@@ -231,3 +231,9 @@ Industrial-Defect-Detection/
 - PyTorch
 - YOLOv8
 - Model Evaluation
+
+---
+
+# Project Guidance
+
+This project was completed under the guidance of **Prof. AC Sir**.
