@@ -1,0 +1,35 @@
+.venv/
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+*.pyd
+
+.ipynb_checkpoints/
+.vscode/
+
+# Dataset archives and extracted data
+archive.zip
+*.zip
+dataset/
+NEU-DET/
+neu_classification/
+neu_yolo/
+
+# Generated features, predictions, training runs, and model weights
+*.csv
+*.pt
+*.pth
+runs/
+yolo_predictions/
+efficientnet_b0_neu_classification.pt
+yolov8n_neu_defect_best.pt
+
+# Local logs and secrets
+*.log
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
